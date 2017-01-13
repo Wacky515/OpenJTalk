@@ -2,14 +2,11 @@
 ## How to install
 ### Linux
 `
-sudo apt install open-jtalk \
-open-jtalk-mecab-naist-jdic \
-hts-voice-nitech-jp-atr503-m001
+sudo apt install open-jtalk open-jtalk-mecab-naist-jdic hts-voice-nitech-jp-atr503-m001
 ` 
 
 `
-wget https://sourceforge.net/projects/mmdagent/files/MMDAgent_Example/ \
-MMDAgent_Example-1.6/MMDAgent_Example-1.6.zip/download -O MMDAgent_Example-1.6.zip
+wget https://sourceforge.net/projects/mmdagent/files/MMDAgent_Example/MMDAgent_Example-1.6/MMDAgent_Example-1.6.zip/download -O MMDAgent_Example-1.6.zip
 `
 
 `
